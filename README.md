@@ -3,6 +3,20 @@
 
 ![Quote GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/eat-sleep-code.gif)
 
+![Eat Sleep Code](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/eat-sleep-code.gif)
+
+![Coding Boy](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding-boy.gif)
+
+![Retro Computer](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/retro-computer.gif)
+
+![Code Rain](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/code-rain.gif)
+
+![Typing Fast](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/typing-fast.gif)
+
+![Matrix Code](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/matrix.gif)
+
+![Hacker Mode](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker.gif)
+
 > Génère des citations inspirantes de personnalités célèbres avec style ✨
 
 ---
