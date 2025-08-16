@@ -1,0 +1,12 @@
+{
+  "name": "Random Api Quote",
+  "version": "1.0.0",
+  "description": "simple package pour citations",
+  "main": "index.js",
+  "keywords": ["quote", "citations", "crazy", "api", "node"],
+  "author": "CrazyNotDev",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
